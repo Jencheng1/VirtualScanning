@@ -1,5 +1,5 @@
 
-# Virtual Scanning
+# Virtual Drug Scanning with Gnina
 
 This repository contains workflows and scripts for performing virtual drug scanning using molecular docking techniques. The primary focus is on using **Gnina**, a molecular docking software with built-in convolutional neural networks (CNNs) for predicting binding poses and binding affinities.
 
